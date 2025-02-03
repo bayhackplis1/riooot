@@ -1,0 +1,4 @@
+Sc only Partner AlwaysBoysz
+
+Startup: node index.js
+key: BoyszXDdos
